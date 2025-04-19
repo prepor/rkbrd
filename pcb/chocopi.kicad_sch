@@ -1,0 +1,5529 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a1f5d933-5ccf-4266-a1f5-93fc86e9421d")
+	(paper "A4")
+	(lib_symbols
+		(symbol "EVQ-P7A01P:EVQ-P7A01P"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "EVQ-P7A01P"
+				(at -2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "chocopi:SW_EVQ-P7A01P"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Panasonic Electronic Components"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.35mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/EVQ-P7A01P/Panasonic+Electronic+Components/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "2022.4"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/EVQ-P7A01P/Panasonic+Electronic+Components/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "EVQ-P7A01P"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Switch;Tactile;3.5x2.9mm;Right Angle;Light Touch Switch | Panasonic Electronic Components EVQ-P7A01P"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Panasonic Electronic Components"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "EVQ-P7A01P_0_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -5.08 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.794 2.1336)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 0)
+					(radius 0.3302)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 2.921 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1_1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1_2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2_1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2_2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_SPDT"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_SPDT"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Switch, single pole double throw"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_SPDT_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254) (xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_SPDT_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "chocopi:d"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "chocopi:Diode_SOD123"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "d_0_1"
+				(polyline
+					(pts
+						(xy 0.508 -4.826) (xy 2.032 -3.81) (xy 0.508 -2.794) (xy 0.508 -4.826)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -4.826) (xy 2.032 -2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "d_1_1"
+				(pin passive line
+					(at -2.54 -3.81 0)
+					(length 3.81)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -3.81 180)
+					(length 3.81)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "chocopi:sw"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "sw"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "chocopi:Cherry_ULP_SMD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "sw_0_1"
+				(polyline
+					(pts
+						(xy -3.81 -2.54) (xy -2.794 -3.556) (xy -2.794 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.4384 -3.9116)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -2.54) (xy 1.27 -5.588)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -4.064) (xy 0.762 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.127 -6.2738)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -6.604) (xy 1.27 -7.62) (xy 1.27 -7.62) (xy 1.27 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -3.81 -2.54 0)
+					(length 0)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 1.27 -7.62 180)
+					(length 0)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "chocopi:xiao"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "xiao_0_1"
+				(rectangle
+					(start -2.54 -5.08)
+					(end 35.56 -31.75)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "xiao_1_1"
+				(pin bidirectional line
+					(at -5.08 -10.16 0)
+					(length 2.54)
+					(name "A2/0.02_H"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -12.7 0)
+					(length 2.54)
+					(name "A4/0.03_H"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -15.24 0)
+					(length 2.54)
+					(name "A10/0.28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -17.78 0)
+					(length 2.54)
+					(name "A11/0.29"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -20.32 0)
+					(length 2.54)
+					(name "A8_SDA/0.04_H"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -22.86 0)
+					(length 2.54)
+					(name "A9_SCL/0.05_H"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -5.08 -25.4 0)
+					(length 2.54)
+					(name "B8_TX/1.11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 -34.29 90)
+					(length 2.54)
+					(name "BAT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 -2.54 270)
+					(length 2.54)
+					(name "A31_SWDIO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 12.7 -34.29 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -2.54 270)
+					(length 2.54)
+					(name "A30_SWCLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 15.24 -34.29 90)
+					(length 2.54)
+					(name "NFC1/0.09_H"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 17.78 -2.54 270)
+					(length 2.54)
+					(name "RESET"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 17.78 -34.29 90)
+					(length 2.54)
+					(name "NFC2/0.10_H"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 20.32 -2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 38.1 -10.16 180)
+					(length 2.54)
+					(name "5V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 38.1 -12.7 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 38.1 -15.24 180)
+					(length 2.54)
+					(name "3V3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -17.78 180)
+					(length 2.54)
+					(name "A6_MOSI/1.15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -20.32 180)
+					(length 2.54)
+					(name "A5_MISO/1.14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -22.86 180)
+					(length 2.54)
+					(name "A7_SCK/1.13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 38.1 -25.4 180)
+					(length 2.54)
+					(name "B9_RX/1.12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 74.93 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10677674-fbb4-4d98-b10b-55e1974d4938")
+	)
+	(junction
+		(at 88.9 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18d4d89e-c430-42e5-b6b7-c39815c127fa")
+	)
+	(junction
+		(at 87.63 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e73818f-a9c4-4dba-999d-7d7511d82bd8")
+	)
+	(junction
+		(at 46.99 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cf1721c-7546-4dc0-bfb8-b63bc751c813")
+	)
+	(junction
+		(at 33.02 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4177dde5-6f39-4b36-a052-c7de82c0e612")
+	)
+	(junction
+		(at 60.96 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c7c97ef-99ab-4566-b6b0-9ee387768e83")
+	)
+	(junction
+		(at 87.63 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "564f7ad4-a223-4f4a-9888-630ad01ecafe")
+	)
+	(junction
+		(at 74.93 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f9cfe12-0c02-4f88-9c0f-61c72ffa853e")
+	)
+	(junction
+		(at 101.6 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f9d4cab-e45d-41b4-b34a-bd8cf37eec46")
+	)
+	(junction
+		(at 59.69 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7698a337-36ee-4a65-adb7-2e2d98768997")
+	)
+	(junction
+		(at 33.02 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7880c418-3d36-4dac-8aa6-f45b62f1507b")
+	)
+	(junction
+		(at 33.02 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f16eb72-c5a7-4985-8dc4-426ca073a39f")
+	)
+	(junction
+		(at 59.69 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8092ca4c-6eae-45f5-83a5-b4abc27272bc")
+	)
+	(junction
+		(at 73.66 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84503fc2-f321-4c0e-9aa9-af98b8472e03")
+	)
+	(junction
+		(at 59.69 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d7401f6-bcac-4a65-a717-ad6ed92e2a06")
+	)
+	(junction
+		(at 59.69 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0c7d7d6-67dd-4d95-a2e4-70bc36d0ab62")
+	)
+	(junction
+		(at 60.96 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5587bd3-2f8a-421d-b7cd-95631105a0bd")
+	)
+	(junction
+		(at 46.99 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a84deb7c-f344-4586-9702-4c1b9a9ef0e5")
+	)
+	(junction
+		(at 88.9 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0108b4e-7f23-41a1-b8ba-be1d16cd5f4e")
+	)
+	(junction
+		(at 101.6 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bea7551d-0486-430c-9af6-d6b97b6a1040")
+	)
+	(junction
+		(at 87.63 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d138ff4c-276f-4743-b652-4a7c7d0ed126")
+	)
+	(junction
+		(at 101.6 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6ede38e-4d6e-4f60-83d3-8123f6cad30b")
+	)
+	(junction
+		(at 46.99 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da619471-c041-4178-8eba-82bc9dbbfe8f")
+	)
+	(junction
+		(at 73.66 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7d312af-648b-4129-ac39-5b218ea82a77")
+	)
+	(junction
+		(at 73.66 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb81ee72-ec2d-4c3d-8957-973a3d88b03d")
+	)
+	(no_connect
+		(at 80.01 41.91)
+		(uuid "3f65f2d1-cf26-4c5f-8ca6-c7a640aa2a04")
+	)
+	(no_connect
+		(at 57.15 34.29)
+		(uuid "53501cab-3d14-4e8a-b78b-52df0017d8da")
+	)
+	(no_connect
+		(at 80.01 57.15)
+		(uuid "6284cc64-5d8d-46cf-83a5-fa3491ded0b2")
+	)
+	(no_connect
+		(at 146.558 113.284)
+		(uuid "9492f9b3-48ba-4faf-92c1-f4c4346a6b1c")
+	)
+	(no_connect
+		(at 54.61 34.29)
+		(uuid "998ab45a-f902-4c7a-b048-92cb9da22dff")
+	)
+	(no_connect
+		(at 36.83 57.15)
+		(uuid "d1458348-7a0a-47db-8baf-b5a160a0e7c7")
+	)
+	(wire
+		(pts
+			(xy 33.02 127) (xy 33.02 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04004d9d-47f7-4e83-b89a-586536cdc991")
+	)
+	(wire
+		(pts
+			(xy 60.96 91.44) (xy 60.96 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "095e32da-13d3-45ab-aedf-b616c5c0d36a")
+	)
+	(wire
+		(pts
+			(xy 87.63 116.84) (xy 87.63 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b763a9e-e1d1-47a1-beed-e1b7e9d1213a")
+	)
+	(wire
+		(pts
+			(xy 137.668 82.042) (xy 137.668 79.502)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10f654de-f20f-4e97-975d-f2599a692d59")
+	)
+	(wire
+		(pts
+			(xy 101.6 105.41) (xy 104.14 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "147a6f97-c1c8-476e-89b0-dafde013ba2c")
+	)
+	(wire
+		(pts
+			(xy 101.6 119.38) (xy 104.14 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cbf7c94-2f93-4641-9a8c-0e678f7e5d28")
+	)
+	(wire
+		(pts
+			(xy 87.63 134.62) (xy 101.6 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d8b53c5-1f51-4a33-9b0e-a0dbb745bfe7")
+	)
+	(wire
+		(pts
+			(xy 46.99 97.79) (xy 46.99 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "298183bc-4a38-452d-ae98-a87623001fd1")
+	)
+	(wire
+		(pts
+			(xy 45.72 134.62) (xy 45.72 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29cafe99-c54b-40dc-84d0-570e4b2f8475")
+	)
+	(wire
+		(pts
+			(xy 33.02 111.76) (xy 33.02 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2af0c84e-c147-408f-a27c-71cd55f8a7f2")
+	)
+	(wire
+		(pts
+			(xy 45.72 119.38) (xy 59.69 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d466a80-32f7-45ba-a2fd-f7d5ee9bc857")
+	)
+	(wire
+		(pts
+			(xy 74.93 111.76) (xy 74.93 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36a837bc-725c-4a90-a72f-7f4e0d72629f")
+	)
+	(wire
+		(pts
+			(xy 88.9 97.79) (xy 88.9 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dab569d-ad20-45be-9bb1-5a73b5f0c8ff")
+	)
+	(wire
+		(pts
+			(xy 60.96 97.79) (xy 60.96 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "450c2d4c-0ee2-4489-9eb1-d91d2dd95adf")
+	)
+	(wire
+		(pts
+			(xy 45.72 105.41) (xy 45.72 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45807c4b-bf06-46f5-9329-93411712dae0")
+	)
+	(wire
+		(pts
+			(xy 73.66 119.38) (xy 87.63 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46ac8d4d-f4e0-4b0c-bf15-bce49b148430")
+	)
+	(wire
+		(pts
+			(xy 142.748 82.042) (xy 144.526 82.042)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cbfa874-4d68-48e4-a035-c6df0094b2b7")
+	)
+	(wire
+		(pts
+			(xy 101.6 119.38) (xy 101.6 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e6e9cf5-3919-4ce4-8627-a0e85d610b38")
+	)
+	(wire
+		(pts
+			(xy 73.66 132.08) (xy 73.66 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ec6d31d-d3a8-42ed-97f4-7fd995c1f5a2")
+	)
+	(wire
+		(pts
+			(xy 73.66 134.62) (xy 87.63 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "558181aa-863d-414e-b11a-e76a3cecb540")
+	)
+	(wire
+		(pts
+			(xy 45.72 119.38) (xy 45.72 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55faa040-4878-44bd-9ec8-15d1e3f07b6a")
+	)
+	(wire
+		(pts
+			(xy 142.748 79.502) (xy 142.748 82.042)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649b930d-7ff6-49b3-ad5f-d9ebbebb269e")
+	)
+	(wire
+		(pts
+			(xy 101.6 105.41) (xy 101.6 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb94239-3555-4531-ab1d-997cc4db58bf")
+	)
+	(wire
+		(pts
+			(xy 59.69 105.41) (xy 73.66 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71b66d4e-0551-4ad2-9f27-8c5ca38adfe8")
+	)
+	(wire
+		(pts
+			(xy 73.66 102.87) (xy 73.66 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d5546f-277c-484c-a9eb-5c6829263d50")
+	)
+	(wire
+		(pts
+			(xy 45.72 134.62) (xy 59.69 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77da1fed-a6f0-4052-9c33-a3303719bc52")
+	)
+	(wire
+		(pts
+			(xy 87.63 102.87) (xy 87.63 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c3e8c74-b68c-4c9d-895c-6226c40a62ab")
+	)
+	(wire
+		(pts
+			(xy 87.63 105.41) (xy 101.6 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8562fc27-e22f-41e4-b5fc-19cc1f131f28")
+	)
+	(wire
+		(pts
+			(xy 59.69 134.62) (xy 73.66 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8693252d-3853-4982-a7b9-40b1aade1d5b")
+	)
+	(wire
+		(pts
+			(xy 73.66 116.84) (xy 73.66 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a6f1a7c-f3a8-4c1f-bf09-5a8e4a8ece79")
+	)
+	(wire
+		(pts
+			(xy 45.72 105.41) (xy 59.69 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cb86290-23eb-4335-9156-ff0f633d5132")
+	)
+	(wire
+		(pts
+			(xy 45.72 148.59) (xy 59.69 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9725948a-2c73-4191-aff3-53f805f186d5")
+	)
+	(wire
+		(pts
+			(xy 33.02 97.79) (xy 33.02 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ae6a359-cfc0-4772-8dd8-3e80b32f3156")
+	)
+	(wire
+		(pts
+			(xy 59.69 146.05) (xy 59.69 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e6d98dd-4131-460f-8f6c-cab684652131")
+	)
+	(wire
+		(pts
+			(xy 59.69 132.08) (xy 59.69 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9edc6f6b-b463-403a-b175-adafdffd227f")
+	)
+	(wire
+		(pts
+			(xy 59.69 102.87) (xy 59.69 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6698e29-328a-456e-8682-1f2a9cdad278")
+	)
+	(wire
+		(pts
+			(xy 46.99 127) (xy 46.99 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9cab0a4-3cde-44bf-b1b3-3f699e0b8fa9")
+	)
+	(wire
+		(pts
+			(xy 101.6 134.62) (xy 101.6 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa5cbf93-4783-4ca4-a7ca-de1f55ee9e06")
+	)
+	(wire
+		(pts
+			(xy 135.89 82.042) (xy 137.668 82.042)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae1fbb49-fe73-4f9d-a1bd-22ad5cef81ee")
+	)
+	(wire
+		(pts
+			(xy 74.93 91.44) (xy 74.93 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af3f0917-68bb-4458-8248-693c37c268a3")
+	)
+	(wire
+		(pts
+			(xy 87.63 132.08) (xy 87.63 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6038b03-d3a7-4967-9e72-73a3034062b0")
+	)
+	(wire
+		(pts
+			(xy 101.6 134.62) (xy 104.14 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8eb9680-82b0-4dc4-8c86-0074b8a94c5b")
+	)
+	(wire
+		(pts
+			(xy 73.66 105.41) (xy 87.63 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba7db7bb-abba-49a7-93d1-52381ed86f19")
+	)
+	(wire
+		(pts
+			(xy 33.02 91.44) (xy 33.02 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbe3cbc7-c481-40fc-a0b9-343c42ead454")
+	)
+	(wire
+		(pts
+			(xy 87.63 119.38) (xy 101.6 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbf81e79-86b7-46b7-b48e-d05a7cfbfe1b")
+	)
+	(wire
+		(pts
+			(xy 88.9 111.76) (xy 88.9 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd105714-2153-4075-8097-498c415c4ca0")
+	)
+	(wire
+		(pts
+			(xy 59.69 116.84) (xy 59.69 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c86c3d6c-c4bf-48e4-9b9f-529615c761f6")
+	)
+	(wire
+		(pts
+			(xy 59.69 148.59) (xy 104.14 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc0e2026-8d16-422d-b9cc-942fc55ca2f0")
+	)
+	(wire
+		(pts
+			(xy 74.93 97.79) (xy 74.93 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0fa963a-45ef-463a-bd1d-ce49b0789841")
+	)
+	(wire
+		(pts
+			(xy 46.99 91.44) (xy 46.99 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d25b7b9f-2590-4965-b001-f2f282b766b1")
+	)
+	(wire
+		(pts
+			(xy 60.96 111.76) (xy 60.96 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7da1491-460b-41ac-8d7e-2e2a9fac8181")
+	)
+	(wire
+		(pts
+			(xy 45.72 148.59) (xy 45.72 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea9b6f88-f5dd-4cb4-b48c-cf2c5b273905")
+	)
+	(wire
+		(pts
+			(xy 59.69 119.38) (xy 73.66 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edbea2f6-cde7-4db1-b725-5765dc92ea4d")
+	)
+	(wire
+		(pts
+			(xy 88.9 91.44) (xy 88.9 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3f17ae9-6c71-47fc-b5ce-28e21f419ab0")
+	)
+	(wire
+		(pts
+			(xy 46.99 111.76) (xy 46.99 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f812c890-0e4b-4f8a-a696-d7d44de01bf3")
+	)
+	(global_label "col1"
+		(shape input)
+		(at 33.02 91.44 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0eb75bf2-bb76-454f-9c8e-88c38fc0db79")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.02 84.3425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 135.89 82.042 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0f6a8f22-be70-4d6b-bc58-6c4776c5f5ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.49 82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row3"
+		(shape input)
+		(at 36.83 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0f8c6800-a597-4856-877b-878db968fd8d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.3696 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BAT+"
+		(shape input)
+		(at 136.398 115.824 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "11b37cf3-42f1-428e-a6a8-390a8e0b4850")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.5142 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col3"
+		(shape input)
+		(at 80.01 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2e7e4143-50f8-4166-9fbd-0e804ed1e65f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.1075 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col1"
+		(shape input)
+		(at 36.83 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "32af2f51-f79f-4cc2-8f6e-110056c03636")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.7325 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 147.32 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b49fa4a-9c55-4307-b673-da8acb783d1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.1757 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row2"
+		(shape input)
+		(at 36.83 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "42c2cb66-8bf0-4fe8-86ec-aa2a4d9878ca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.3696 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col2"
+		(shape input)
+		(at 36.83 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "44e3f029-f39e-4cab-9b27-78bf94db8e5f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.7325 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 144.526 82.042 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "470cf043-79ae-44a3-ae7b-2b14b6abac38")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 151.3817 82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row2"
+		(shape input)
+		(at 104.14 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4aa205d7-1796-4910-86e7-41999248daa3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.6004 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 62.23 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a41109e-a37b-4187-9eb4-efcdc79bded6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 27.4343 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col4"
+		(shape input)
+		(at 74.93 91.44 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fadc8d5-e3f0-4fe2-9f82-8bb0137d48d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.93 84.3425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row1"
+		(shape input)
+		(at 104.14 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "82a4771a-0026-4d1b-a5c6-418210f982ca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.6004 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 54.61 66.04 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "85c9c1bb-956c-4d6d-83f8-41f2dcbb34cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.61 72.8957 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col5"
+		(shape input)
+		(at 88.9 91.44 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "910e4e96-f593-43fd-9f46-c9b2afd9e461")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.9 84.3425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 80.01 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "998211f1-31f0-4036-b304-ec27fbdad59b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.8657 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col3"
+		(shape input)
+		(at 60.96 91.44 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e3757a6-7b85-4ec1-8fac-d93d29ba7297")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.96 84.3425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row1"
+		(shape input)
+		(at 36.83 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a70511b3-1173-4f50-b183-1372da186437")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.3696 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RESET"
+		(shape input)
+		(at 59.69 34.29 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "adde7991-ea56-40c9-a1c3-48987ce7db98")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.69 25.5597 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col5"
+		(shape input)
+		(at 80.01 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b56ee946-c044-414c-9aef-f3e4569b699f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.1075 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BAT+"
+		(shape input)
+		(at 52.07 66.04 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7c1bf31-3049-471a-8094-dff2c98d9c3a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.07 73.9238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col2"
+		(shape input)
+		(at 46.99 91.44 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc76b99f-79d0-4619-91d3-f3836e265eee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.99 84.3425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape input)
+		(at 146.558 118.364 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be611684-283e-4bb4-a5cd-cc54b07b6247")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.958 118.364 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row4"
+		(shape input)
+		(at 36.83 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c3fc03e0-fd0c-40a5-8e45-61c329da1dc5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.3696 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row3"
+		(shape input)
+		(at 104.14 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cc6cba8d-6a7e-4077-9274-8f45b67a674d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.6004 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row4"
+		(shape input)
+		(at 104.14 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ccc4c37d-38eb-49d2-b347-7c792d6451e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.6004 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RESET"
+		(shape input)
+		(at 132.08 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d611a5ad-14f8-4a17-8f6a-d3396446230f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 123.3497 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col4"
+		(shape input)
+		(at 80.01 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dfdad107-75bd-4c1a-839b-74694656ec7c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.1075 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 36.83 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03d8085a-2f77-45d1-b9ae-90c18621011e")
+		(property "Reference" "sw6"
+			(at 35.56 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 35.56 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 36.83 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0f634dee-b424-422a-9f05-1e8fc5eec2b5")
+		)
+		(pin "1"
+			(uuid "1c4ed44b-ada6-463a-a543-ab16ada0ece9")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPDT")
+		(at 141.478 115.824 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d9456be-cb76-40b7-ad67-ce94e5ac192b")
+		(property "Reference" "PSW1"
+			(at 141.478 109.728 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPDT"
+			(at 141.478 109.728 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "chocopi:MSK12C02"
+			(at 141.478 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 141.478 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Switch, single pole double throw"
+			(at 141.478 115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "22e08dd9-01ad-4000-800f-05a8db3b4670")
+		)
+		(pin "2"
+			(uuid "8c204a71-22b6-4622-979f-d52d851db2a1")
+		)
+		(pin "3"
+			(uuid "5f773e08-f2d3-4a4b-9367-706c200f788c")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "PSW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 137.668 76.962 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "12dbc54d-5f97-4591-b70c-034f3004e063")
+		(property "Reference" "BAT+1"
+			(at 134.366 75.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "+"
+			(at 134.112 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "chocopi:BatteryPad"
+			(at 137.668 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.668 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 137.668 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "20e4da20-e5cc-425a-b711-7469407761b8")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "BAT+1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 68.58 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "179376e4-1d82-4f2f-a188-104492d154b5")
+		(property "Reference" "D8"
+			(at 68.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 68.58 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 68.58 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5a211d35-68ba-4226-b814-5cbcdad64a1e")
+		)
+		(pin "1"
+			(uuid "0d5f7962-103e-4d33-ae4f-aa0115367b78")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 142.748 76.962 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f41b422-2585-4a05-88b0-cae50dd11d90")
+		(property "Reference" "BATGND1"
+			(at 145.796 75.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "-"
+			(at 146.05 76.9619 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "chocopi:BatteryPad"
+			(at 142.748 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.748 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 142.748 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6ed48669-2bff-470e-9d3d-d095119f4b2f")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "BATGND1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 40.64 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1f45d990-a650-4d05-a89d-412fe4e74200")
+		(property "Reference" "D1"
+			(at 40.64 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 40.64 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 40.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b371e427-3be2-4ff1-9948-b18a26b2c3e5")
+		)
+		(pin "1"
+			(uuid "d75953c8-c1f7-44ed-9144-7bb9895b208e")
+		)
+		(instances
+			(project ""
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 78.74 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23fa8a6d-b838-41db-97f6-2bdfdd9bb283")
+		(property "Reference" "sw4"
+			(at 77.47 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 78.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4e7635ac-cf26-4fab-bfdd-1b03e36994c2")
+		)
+		(pin "1"
+			(uuid "7f2d4d10-6d54-46d3-9c09-da49e6c7a47a")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 36.83 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24832859-b2c6-4d24-aac7-51edc94331db")
+		(property "Reference" "sw16"
+			(at 35.56 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 35.56 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 36.83 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7f7cc443-1c21-41bf-8dc6-1fa04448e9b0")
+		)
+		(pin "1"
+			(uuid "b473c578-24df-46fe-9efe-99a632e88ddc")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 64.77 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49716b49-671a-46d2-bfe5-561245979f19")
+		(property "Reference" "sw3"
+			(at 63.5 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 63.5 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 64.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f860d1d7-f7ff-42b3-8f94-9bceb40cd016")
+		)
+		(pin "1"
+			(uuid "970d99a6-2b80-41dc-b1b0-0be85e3cf849")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 50.8 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f03a29b-ad3f-4004-9275-1e3c86982785")
+		(property "Reference" "sw2"
+			(at 49.53 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 50.8 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2518fced-c2e2-4900-8222-35c9c157d3a4")
+		)
+		(pin "1"
+			(uuid "9e5dd5c4-600e-4c2f-95fd-0ae4347a249c")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 40.64 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53a8f8e9-2ccc-4495-8e8b-997b450b0c57")
+		(property "Reference" "D11"
+			(at 40.64 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 40.64 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 40.64 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1e7d5b52-00eb-4208-9bf1-9f3c4d934804")
+		)
+		(pin "1"
+			(uuid "7fd5b5f4-d61a-4cd2-99a6-8d824bb51b6b")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 40.64 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "551f9798-c7de-408c-970a-1ddff5841414")
+		(property "Reference" "D6"
+			(at 40.64 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 40.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ce83b318-379b-498c-97cd-cf02bf1d996a")
+		)
+		(pin "1"
+			(uuid "915daa3f-05d1-4b65-84df-8efae82dc7b6")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EVQ-P7A01P:EVQ-P7A01P")
+		(at 139.7 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "552c7ca7-6748-4605-a8cc-15fb831eac78")
+		(property "Reference" "S1"
+			(at 139.7 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EVQ-P7A01P"
+			(at 139.7 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:SW_EVQ-P7A01P"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Panasonic Electronic Components"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.35mm"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/EVQ-P7A01P/Panasonic+Electronic+Components/view-part/?ref=eda"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "2022.4"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/EVQ-P7A01P/Panasonic+Electronic+Components/view-part/?ref=snap"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "EVQ-P7A01P"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Switch;Tactile;3.5x2.9mm;Right Angle;Light Touch Switch | Panasonic Electronic Components EVQ-P7A01P"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic Electronic Components"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2_2"
+			(uuid "b7c27a71-7cd4-45ae-8d3b-ba52d6916b14")
+		)
+		(pin "2_1"
+			(uuid "846d1306-74d9-4d0a-9bdb-903bad2c32b9")
+		)
+		(pin "1_2"
+			(uuid "ecbc7541-667e-4b9a-a930-dbc324944cc2")
+		)
+		(pin "1_1"
+			(uuid "f6a2e45b-7e8c-40c3-8b5f-88bc36f9f646")
+		)
+		(instances
+			(project ""
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 54.61 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57882b84-9683-4bf3-b144-2e574d1fa9c2")
+		(property "Reference" "D17"
+			(at 54.61 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 54.61 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 54.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eaeade5b-e95e-49f3-b3ca-8fe70575166e")
+		)
+		(pin "1"
+			(uuid "ec58fd8f-209c-4705-ad2e-0d8d07d74462")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 82.55 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ed830f3-14b8-4162-bf87-0124897acfc5")
+		(property "Reference" "D9"
+			(at 82.55 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 82.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a61713de-110d-4fb8-b66f-f89a0814b05e")
+		)
+		(pin "1"
+			(uuid "ff45b99e-330b-47e4-ad06-cd6dd27dceab")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 50.8 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63b8d56f-74d3-4fd1-a571-0e3080d5aa17")
+		(property "Reference" "sw12"
+			(at 49.53 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 50.8 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "de638652-273f-4fa6-80ae-96153ffe3daf")
+		)
+		(pin "1"
+			(uuid "3ee82e7f-3a11-4c40-8e05-2e5d19d873bf")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 54.61 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65ad128d-3796-43ec-9db8-710fcbf9bd81")
+		(property "Reference" "D2"
+			(at 54.61 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 54.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 54.61 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "08c284c0-ffb1-4fa4-8db3-a71e7b21d549")
+		)
+		(pin "1"
+			(uuid "0e4954cc-564e-41d0-9708-cda8d9ed97cd")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 96.52 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6fc9b0c6-b68d-4995-bc19-169ba86bc30a")
+		(property "Reference" "D15"
+			(at 96.52 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 96.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 96.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e1f2f0ed-243f-494e-821d-fb1724281079")
+		)
+		(pin "1"
+			(uuid "f8c0cc4c-591f-4289-bdf0-d45dff5c077c")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 96.52 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "860f4366-07cc-4d80-ba9b-93dc5ee54a6e")
+		(property "Reference" "D10"
+			(at 96.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 96.52 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 96.52 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4d16ac28-8504-40ec-bb80-093d3d70d334")
+		)
+		(pin "1"
+			(uuid "941aa467-09ce-4300-a900-401b83a66713")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 50.8 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a2aef73-b129-4985-a0ee-7af9723618f2")
+		(property "Reference" "sw7"
+			(at 49.53 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 50.8 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fec145df-2452-4b6f-8550-0c05274c24e6")
+		)
+		(pin "1"
+			(uuid "c5747691-38d2-454b-8461-53520999f75a")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 40.64 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a6c5bce-4fb4-4ede-823a-c02280246aa4")
+		(property "Reference" "D16"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 40.64 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 40.64 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f56ed446-1330-45ec-b2b7-ce3ef865dd79")
+		)
+		(pin "1"
+			(uuid "9f8a921e-975f-4fb7-ad32-ea0f0a7ee980")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 54.61 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a7bafb9-813b-4dd8-bfa0-3ca69f89457c")
+		(property "Reference" "D12"
+			(at 54.61 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 54.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 54.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d9715e0b-f9f8-4a49-ad8c-be2729a047d9")
+		)
+		(pin "1"
+			(uuid "b91f70fc-8c69-4f18-bf1e-b6c6e7326e1d")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 78.74 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "902c2939-bed7-4e16-a2d7-df715c683fc4")
+		(property "Reference" "sw9"
+			(at 77.47 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 77.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 78.74 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bb6991b6-ee9d-4a08-be4c-13a14266308d")
+		)
+		(pin "1"
+			(uuid "a67b47f4-07c1-4cbe-ad57-81240b3d4607")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 50.8 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "914ac653-0258-4aa6-a6aa-40ffab9b8cf6")
+		(property "Reference" "sw17"
+			(at 49.53 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 49.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 50.8 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4c05b331-1276-4179-9ce1-e0a4aa0dca07")
+		)
+		(pin "1"
+			(uuid "44b8085c-2940-4ed3-b8e0-4a455910f8c9")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 68.58 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "922487d1-7e11-4e53-9905-25e553e43505")
+		(property "Reference" "D13"
+			(at 68.58 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 68.58 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 68.58 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "04713bdb-d709-47ef-9136-fbf782757287")
+		)
+		(pin "1"
+			(uuid "d78b671a-f071-47c3-8deb-7c80d9a5cf6b")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 68.58 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "932d8356-7a2a-4139-9cee-00fbbc302d5f")
+		(property "Reference" "D3"
+			(at 68.58 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 68.58 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 68.58 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dd10a9f3-94be-4a70-8872-bb0a4e4ba4cf")
+		)
+		(pin "1"
+			(uuid "b6360b79-1be5-4545-b1f5-db1dc92a8d0e")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 64.77 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9393c9c1-e3a3-4890-aefe-f20970584a02")
+		(property "Reference" "sw13"
+			(at 63.5 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 63.5 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 64.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "43a1373a-0ab9-4bf0-a591-a20987b143b7")
+		)
+		(pin "1"
+			(uuid "35b67173-8ea1-4a6a-ba06-fbd91e9e26fc")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 54.61 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "985cf595-d15c-40a6-9daf-5ca2b08cdba0")
+		(property "Reference" "D7"
+			(at 54.61 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f21fadf6-5f9b-4ffb-87f1-24cfcc69fbaa")
+		)
+		(pin "1"
+			(uuid "36e00fb5-2a4f-4fda-9483-096fff04b84a")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 78.74 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a7ae30e-293a-4f79-8276-c3b35a0865bd")
+		(property "Reference" "sw14"
+			(at 77.47 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 77.47 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 78.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e8f14bd9-8bee-432e-9895-891e23aa1956")
+		)
+		(pin "1"
+			(uuid "3c4007ab-95e0-43ac-a9a5-d80156ffd2f8")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 96.52 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a95188b6-53f6-43a5-97d2-4db4b60bcceb")
+		(property "Reference" "D5"
+			(at 96.52 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 96.52 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 96.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 96.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "26249948-279e-4fcb-90b8-4a742bce3c6d")
+		)
+		(pin "1"
+			(uuid "adf8eb81-b656-46c6-95ea-918b00df051b")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 64.77 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7381f73-fa3e-4142-9e92-da536577cfbc")
+		(property "Reference" "sw8"
+			(at 63.5 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 63.5 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 64.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b438393a-079f-4206-a850-c67eed5a60c0")
+		)
+		(pin "1"
+			(uuid "0bfbddf7-cd23-4146-a3ec-c4f4e0bdc1e6")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:xiao")
+		(at 41.91 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be852e60-d938-42c4-9513-f0dd23c30da2")
+		(property "Reference" "U1"
+			(at 64.3733 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "XIAO-nRF52840-SMD"
+			(at 64.3733 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "chocopi:xiao-ble-smd-cutout"
+			(at 41.91 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 41.91 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "17"
+			(uuid "ff733890-1928-405f-b801-09921a3df1ad")
+		)
+		(pin "20"
+			(uuid "fd92793f-6793-4198-a1c1-133f0ca2e9e5")
+		)
+		(pin "10"
+			(uuid "f8a7430f-91b8-4197-bc5d-cfa73ffc8fb6")
+		)
+		(pin "13"
+			(uuid "c6deffc2-d6e7-485a-a46f-a9a874941b63")
+		)
+		(pin "22"
+			(uuid "25ef9f3e-a913-4146-8ca2-402cc5e9c775")
+		)
+		(pin "11"
+			(uuid "d9252bd1-3883-48f5-8817-9e81a29b620f")
+		)
+		(pin "6"
+			(uuid "6c863605-547c-49f5-af30-a057cc53d676")
+		)
+		(pin "7"
+			(uuid "2566d8f5-cc20-4d7b-9585-cc420f3bfcd1")
+		)
+		(pin "2"
+			(uuid "55d0abbc-c442-453f-9cc3-c4f51a0f6dd6")
+		)
+		(pin "3"
+			(uuid "e519f0fb-36d8-4c79-97bc-45fba56dfa54")
+		)
+		(pin "14"
+			(uuid "34ef8d36-26ed-4fe6-9f52-19d6b91b4bb2")
+		)
+		(pin "5"
+			(uuid "36b8b7d7-d366-40c7-a9df-5d29fe585e4d")
+		)
+		(pin "1"
+			(uuid "02ad49bc-24ce-4a58-89da-a212ebdff1fa")
+		)
+		(pin "19"
+			(uuid "4499dce8-e18e-4fc0-9f0b-d53d8e5b31d4")
+		)
+		(pin "12"
+			(uuid "2b3ab3bf-3be2-49b5-b674-993843a8c461")
+		)
+		(pin "16"
+			(uuid "ae40b085-8a93-4164-aeee-410df6b187cb")
+		)
+		(pin "9"
+			(uuid "29f9db82-548e-4023-8d10-a878124796dd")
+		)
+		(pin "15"
+			(uuid "67f26a65-82fd-4fe2-a701-b8fd31448e21")
+		)
+		(pin "18"
+			(uuid "2578e96b-7a1f-42ca-b7c2-0fefe45e8b2a")
+		)
+		(pin "8"
+			(uuid "1973d792-3e30-40f0-b664-c974a869f7ba")
+		)
+		(pin "21"
+			(uuid "c9193435-bfe7-4419-a961-12ad71b75b88")
+		)
+		(pin "4"
+			(uuid "b2a73463-2ea0-48fc-91ab-4682356eb6e9")
+		)
+		(instances
+			(project ""
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 92.71 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c66f6ec3-84f4-4cf5-b929-d8dd32e7ea80")
+		(property "Reference" "sw5"
+			(at 91.44 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 91.44 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 92.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "924e71d8-ee63-4da5-ac29-2266ae17a3a2")
+		)
+		(pin "1"
+			(uuid "6b50d58e-2e7e-4bb2-900e-e2caedc6ab3c")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 82.55 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d16e5905-b75a-4429-90bf-5e87282c9ca3")
+		(property "Reference" "D4"
+			(at 82.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "242bcf4c-a2bd-4619-ae10-aaa507b84449")
+		)
+		(pin "1"
+			(uuid "6c497374-1b1a-4d0a-aad2-85f7eb6901ee")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 36.83 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6a70a85-1c1c-4f93-b517-6ae0075eebfa")
+		(property "Reference" "sw1"
+			(at 35.56 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 35.56 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 36.83 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "90066403-3a71-4af0-83ab-f4de78e5d883")
+		)
+		(pin "1"
+			(uuid "78bc2c30-a438-4cec-922c-609d968e0fc5")
+		)
+		(instances
+			(project ""
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:d")
+		(at 82.55 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd3d0d40-b0b7-4a40-a785-844d2b7912ef")
+		(property "Reference" "D14"
+			(at 82.55 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 82.55 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Diode_SOD123"
+			(at 82.55 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eab624b0-ee50-4f09-b1d6-0f41a8e81361")
+		)
+		(pin "1"
+			(uuid "cfa342d9-8bd0-4cef-a4ea-a47b08d9a4b4")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 36.83 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e055852a-5bc6-4250-b0b8-debcaa877d2d")
+		(property "Reference" "sw11"
+			(at 35.56 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 35.56 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 36.83 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 36.83 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "420034d8-4309-43e2-9fc9-fad3ebacf04b")
+		)
+		(pin "1"
+			(uuid "e1a00dec-5a97-4b6c-96a7-9de0d9a2c7b2")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 92.71 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc7a6270-d027-47f2-8a36-4bd43be4ccd1")
+		(property "Reference" "sw15"
+			(at 91.44 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 92.71 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6cf7fc00-4b4b-4a21-b270-a57e63334a98")
+		)
+		(pin "1"
+			(uuid "f2a70e41-3034-4a1d-879b-c3b0384b3841")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "chocopi:sw")
+		(at 92.71 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ffb4a2ac-bd8f-4b08-9cae-c29b273531e6")
+		(property "Reference" "sw10"
+			(at 91.44 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 91.44 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "chocopi:Cherry_ULP_SMD"
+			(at 92.71 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e2d43210-ff1f-4a64-9ce6-d5f64ab77b11")
+		)
+		(pin "1"
+			(uuid "bfcb4d2f-a716-4f29-9205-320cefb927b7")
+		)
+		(instances
+			(project "chocopi"
+				(path "/a1f5d933-5ccf-4266-a1f5-93fc86e9421d"
+					(reference "sw10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

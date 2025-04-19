@@ -1,0 +1,133 @@
+(footprint "Diode_SOD123"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(placed yes)
+	(layer "F.Cu")
+	(descr "Diode, DO-41, SOD81, Horizontal, RM 10mm,")
+	(tags "Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,")
+	(property "Reference" "D1"
+		(at 0 1.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0e8af879-d4bc-486f-9736-1d14495398ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "D"
+		(at 0 -1.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b710dbc-41b7-4281-9f1f-79f53f778b14")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aba7247d-b9a6-414f-8047-d43a7b4efffd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b0a6545-f7ef-45be-9f59-e11ffed688e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "296e9de3-cfcf-4fa9-8e43-8047e096ede7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.5 -0.7)
+		(end -0.5 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85f5a246-4afe-4d0c-a047-86c41a119fa4")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.4 -0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e4fdb7cf-72a1-4b97-93b4-b2826582e1fc")
+	)
+	(fp_line
+		(start 0.4 -0.7)
+		(end 0.4 0.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "900e001e-4c1c-424c-843d-edd5c90703ca")
+	)
+	(fp_line
+		(start 0.4 0.7)
+		(end -0.5 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ecc0ecab-1aee-4b43-b7ae-3554c9fac2a0")
+	)
+	(pad "1" smd rect
+		(at -1.7 0)
+		(size 1.8 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fd71efeb-8e32-4715-9e6b-160a10304850")
+	)
+	(pad "2" smd rect
+		(at 1.7 0)
+		(size 1.8 1.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f83d585b-4500-4163-a4ff-1ca733793bb7")
+	)
+	(model "${KIPRJMOD}/chocopi3d/D_SOD-123.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
