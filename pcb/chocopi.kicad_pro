@@ -52,7 +52,40 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "invalid_outline|112577564|122466111|95f3f2f2-453d-48bb-9900-e980f32bcb25|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|120150913|92136500|f963c3df-8fa9-4919-94ad-84ffaf1f2bd5|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|239549089|39200000|3b8768c4-0244-4ef3-af7d-54754e5f0f56|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|239549089|91700000|83811a14-3e4e-4819-8c06-79e5a7822e14|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|258049089|45200000|e0e4673e-6bb1-4fe2-8978-912a8b222b1c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|258049089|97700000|ba1f6c9f-c252-49c2-af2b-03853c24c9a3|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|276549089|57200000|0175bea2-8695-4732-b17c-63cec3923f65|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "invalid_outline|94650914|117261300|7a1022c6-ca6b-4667-8f2c-00bbd838079a|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -531,15 +564,21 @@
         },
         {
           "group_by": false,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
         },
         {
           "group_by": false,
-          "label": "Footprint",
-          "name": "Footprint",
-          "show": true
+          "label": "Description",
+          "name": "Description",
+          "show": false
         },
         {
           "group_by": false,
@@ -548,16 +587,88 @@
           "show": true
         },
         {
-          "group_by": true,
-          "label": "DNP",
-          "name": "${DNP}",
-          "show": true
-        },
-        {
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
         },
         {
           "group_by": false,
@@ -569,12 +680,6 @@
           "group_by": false,
           "label": "Sim.Pins",
           "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
           "show": false
         }
       ],
