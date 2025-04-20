@@ -54,6 +54,54 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
+          "copper_edge_clearance|119165955|106593213|703a9a19-7d90-4b30-8189-64781aba751c|d5ca9bdc-6335-42b9-990c-1576e3dabe40",
+          ""
+        ],
+        [
+          "copper_edge_clearance|119776612|98151772|539a91f0-89e2-4205-a6c2-04b55c9b2719|2ce00dfc-2ef1-4fd0-9dc7-84140eb788e9",
+          ""
+        ],
+        [
+          "copper_edge_clearance|120872203|105856832|59ac0fda-e192-4928-9f1d-ed7b5ee65fef|aecbc8ee-4877-4de8-bd31-fa3d97e7bb06",
+          ""
+        ],
+        [
+          "copper_edge_clearance|120962006|100307034|5f45c899-7f6e-4ea4-be1f-9b66bb7405ee|88d4bb0d-c32b-40dd-ad79-7d57b7a8aa0c",
+          ""
+        ],
+        [
+          "copper_edge_clearance|120962006|96966379|539a91f0-89e2-4205-a6c2-04b55c9b2719|8952b247-c4af-4876-8c6a-49a9ea0cdf12",
+          ""
+        ],
+        [
+          "copper_edge_clearance|123117267|99121640|3697c29d-feaa-4cab-94c2-4ff400093995|1ad1f7e5-afc4-446b-9dd2-378433dd19fc",
+          ""
+        ],
+        [
+          "copper_edge_clearance|181017268|98051771|eeb9f4b1-30e7-45d1-acf3-3a3e7ecc7ac3|01601570-894b-4852-b7fe-6e9d7bf06505",
+          ""
+        ],
+        [
+          "copper_edge_clearance|182202661|100207035|5e0caef3-b2d6-421c-9675-fea77aa5c061|8f148195-3325-4915-ba8e-053261ad5462",
+          ""
+        ],
+        [
+          "copper_edge_clearance|182202661|96866379|eeb9f4b1-30e7-45d1-acf3-3a3e7ecc7ac3|bcfd31fa-9500-4d1b-a72d-8cc86450644c",
+          ""
+        ],
+        [
+          "copper_edge_clearance|184357923|98051772|be274f44-9d33-4d4d-ab93-577e4498c4ba|df22d2c1-b583-417e-91bf-d51bf43ae339",
+          ""
+        ],
+        [
+          "copper_edge_clearance|188937854|99111443|c9545bc8-706e-4e98-be4b-3cdab17a4767|81fcf80e-db5f-4c86-bda1-15a08fbd3059",
+          ""
+        ],
+        [
+          "copper_edge_clearance|190644102|100817691|a029cd40-6860-461b-a8d1-a31c81fa93ce|4ff47b9a-5b39-4b92-b87e-3177879a991f",
+          ""
+        ],
+        [
           "invalid_outline|112577564|122466111|95f3f2f2-453d-48bb-9900-e980f32bcb25|00000000-0000-0000-0000-000000000000",
           ""
         ],
