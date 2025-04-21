@@ -54,11 +54,11 @@
       "diff_pair_dimensions": [],
       "drc_exclusions": [
         [
-          "copper_edge_clearance|119165955|106593213|703a9a19-7d90-4b30-8189-64781aba751c|d5ca9bdc-6335-42b9-990c-1576e3dabe40",
+          "copper_edge_clearance|119776612|98151772|539a91f0-89e2-4205-a6c2-04b55c9b2719|2ce00dfc-2ef1-4fd0-9dc7-84140eb788e9",
           ""
         ],
         [
-          "copper_edge_clearance|119776612|98151772|539a91f0-89e2-4205-a6c2-04b55c9b2719|2ce00dfc-2ef1-4fd0-9dc7-84140eb788e9",
+          "copper_edge_clearance|120135822|106593213|59ac0fda-e192-4928-9f1d-ed7b5ee65fef|d5ca9bdc-6335-42b9-990c-1576e3dabe40",
           ""
         ],
         [
@@ -90,7 +90,7 @@
           ""
         ],
         [
-          "copper_edge_clearance|184357923|98051772|be274f44-9d33-4d4d-ab93-577e4498c4ba|df22d2c1-b583-417e-91bf-d51bf43ae339",
+          "copper_edge_clearance|184357923|99021640|2c0a3bd3-e0cf-4fbd-8f41-5793c1ef4057|df22d2c1-b583-417e-91bf-d51bf43ae339",
           ""
         ],
         [
