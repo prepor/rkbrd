@@ -1,2 +1,5 @@
 .stfolder
 1/pcb/production
+2/node_modules
+2/output
+2/pnpm-lock.yaml

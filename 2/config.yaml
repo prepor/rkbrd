@@ -1,0 +1,79 @@
+meta:
+  engine: 4.1.0
+  name: rkbrd2
+  version: 0.1
+  author: prepor
+  url: https://github.com/prepor/rkbrd
+units:
+  kx: 16
+  ky: 16
+  $default_spread: "16"
+  $default_height: "16-1"
+  $default_width: "16-1"
+  $default_padding: "16"
+points:
+  key.padding: ky
+  key.spread: kx
+  zones:
+    matrix:
+      anchor:
+        shift: [100, -100]
+      columns:
+        pinky:
+        ring:
+          key:
+            stagger: 10
+        middle:
+          key:
+            stagger: 5
+        index:
+          key:
+            stagger: -6
+        inner:
+          key:
+            stagger: -3
+      rows:
+        bottom:
+        home:
+        top:
+    thumbs:
+      anchor:
+        ref: matrix_inner_bottom
+        shift: [0, -1ky]
+      columns:
+        home:
+        outer:
+      rows:
+        cluster:
+  mirror: &mirror
+    ref: thumbs_outer_cluster
+    distance: 2.5kx
+outlines:
+  raw:
+    - what: rectangle
+      where: true
+      size: [kx, ky]
+pcbs:
+  main:
+    outlines:
+      - outline: raw
+    template: kicad8
+    footprints:
+      ulp:
+        what: cherry_ulp
+        where: true
+        params:
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode:
+        what: diode_sod123
+        where: true
+        adjust.shift: [0, -2]
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+      mcu:
+        what: xiao
+        where: matrix_inner_top
+        params:
+          P0: row_top
