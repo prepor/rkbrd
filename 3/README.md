@@ -10,7 +10,7 @@ Low-profile, 34-key, splayed, concave, split, wireless, fully customizable keybo
 
 ## Introduction
 
-Every hand is unique. The simple implication is that no keyboard fits all hands perfectly. A keyboard should either be mechanically customizable (see Slavboard) or tailored specifically to an individual's hand. With this keyboard, I'm sharing not only STL files for a ready-to-print version, but also a CAD model that can be customized via various parameters to achieve the most comfortable layout for your hand.
+Every hand is unique. The simple implication is that no keyboard fits all hands perfectly. A keyboard should either be mechanically customizable (see Svalboard) or tailored specifically to an individual's hand. With this keyboard, I'm sharing not only STL files for a ready-to-print version, but also a CAD model that can be customized via various parameters to achieve the most comfortable layout for your hand.
 
 For instance, I have relatively small fingers, so I use a tight key spacing (17 mm). Others may find different spacing, concavity, and splay settings more comfortable.
 
