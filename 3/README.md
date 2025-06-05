@@ -83,7 +83,7 @@ It’s strong enough for keyboards (time will tell!), easy to correct mistakes, 
 
 That said, there’s nothing unique about this keyboard's wiring method — classic handwiring works just as well.
 
-With wire wrapping or handwiring, you have complete freedom in designing the keyboard matrix. It’s a good idea to make your wiring compatible with other XIAO-based 34-key keyboard schematics, such as this one: [Forager schematic](https://github.com/carrefinho/forager/blob/main/forager-pcb/forager-pcb.kicad_sch).
+With wire wrapping or handwiring, you have complete freedom in designing the keyboard matrice. It’s a good idea to make your wiring compatible with other XIAO-based 34-key keyboard schematics, such as this one: [Forager schematic](https://github.com/carrefinho/forager/blob/main/forager-pcb/forager-pcb.kicad_sch).
 
 I do not provide a specific wiring diagram. If you understand how keyboard matrices work, you’ll know what to do. If not, I highly recommend reading up on the topic — it only takes a few minutes and will greatly help with building and debugging your keyboard. Here's a helpful article: [How Key Matrices Work](https://pcbheaven.com/wikipages/How_Key_Matrices_Works/).
 
